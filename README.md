@@ -10,7 +10,8 @@ bonus*:
 - Mobile First Responsive Web Design
 - Responsive typography
 - Scroll animations
-- Used React Hooks
+- Svg animations
+- React Hooks
 
 ### Tools used
 
